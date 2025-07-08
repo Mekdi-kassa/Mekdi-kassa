@@ -27,7 +27,7 @@
 ![Icons](https://img.shields.io/badge/-Icons-FFD43B?style=flat&logo=simple-icons&logoColor=black)
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mekdi-Kassa&show_icons=true&theme=radical)
 
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mekdelawit-abadina-1a7378302/)

@@ -1,33 +1,88 @@
-# Hi there 👋, I'm Mekdelawit Abadina
+<h1 align="center">Hi 👋, I'm Mekdelawit Abadina</h1>
+<!-- <h3 align="center">A passionate Backend Developer from Ethiopia</h3> -->
 
-### Full-Stack Developer | Tech Enthusiast
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mekdi-kassa&label=Profile%20views&color=0e75b6&style=flat" alt="Mekdi-kassa" />
+</p>
 
-- 🔭 I’m currently working on **personal projects**
-- 🌱 I’m learning **Next.js, django, laravel**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Python, Cloud Computing**
-- 📫 How to reach me: **mekdelawitkassa6@gmail.com**
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love reading books !
 
-### 🛠️ Tech Stack
-### 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Icons](https://img.shields.io/badge/-Icons-FFD43B?style=flat&logo=simple-icons&logoColor=black)
+
+### 📬 Reach Me
+
+<p align="center">
+  <a href="mailto:mekdelawitkassa6@gmail.com target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="50" height="50" />
+  </a>
+  <a href="https://t.me/Ankeole" target="_blank">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" width="50" height="50" />
+  </a>
+  <a href="https://www.linkedin.com/in/mekdelawit-abadina-1a7378302/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Natnael Yonas" height="50" width="50" />
+  </a>
+</p>
+
+
+
+### 👨‍💻 Competitive Programming
+
+<p align="center">
+  <a href="https://leetcode.com/mekdelawitabadi" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode - mekdelawitabadi" height="50" width="50" />
+  </a>
+  <a href="https://codeforces.com/profile/titha" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces - titha" height="50" width="50" />
+  </a>
+</p>
+
+
+
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
+  </a>
+  
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="60" height="60"/>
+  </a>
+  
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/>
+  </a>
+  
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/>
+  </a>  
+  
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
+  </a>
+  
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="60" height="60" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" width="60" height="60" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="60" height="60" />
+  <img src="https://cdn.simpleicons.org/postgresql/336791" width="60" height="60" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" width="60" height="60" />
+</p>
+
+
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mekdi-Kassa&show_icons=true&theme=radical)
 
-### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mekdelawit-abadina-1a7378302/)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NatiYoni&show_icons=true&theme=dark&hide=issues" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatiYoni&layout=compact&theme=dark" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NatiYoni&theme=dark" width="47%" />
+</div>
+
+
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mekdi-kassa&theme=onedark&no-frame=true&column=8" />
+</p>
+
+---
+<p align="center">⚡ Always learning. Let's connect and grow together!</p>

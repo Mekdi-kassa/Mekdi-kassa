@@ -71,9 +71,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NatiYoni&show_icons=true&theme=dark&hide=issues" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatiYoni&layout=compact&theme=dark" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NatiYoni&theme=dark" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mekdi-kassa&show_icons=true&theme=dark&hide=issues" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mekdi-kassa&layout=compact&theme=dark" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mekdi-kassa&theme=dark" width="47%" />
 </div>
 
 

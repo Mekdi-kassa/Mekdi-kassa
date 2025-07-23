@@ -87,6 +87,6 @@
 
 ## 🧩 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Mekdelawit Abadina?theme=dark&font=baloo&ext=contest)](https://leetcode.com/u/mekdelawitabadi/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=dark&font=BioRhyme)(https://leetcode.com/u/mekdelawitabadi/)
 ---
 <p align="center">⚡ Always learning. Let's connect and grow together!</p>

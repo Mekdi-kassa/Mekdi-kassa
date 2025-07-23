@@ -84,5 +84,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Mekdi-kassa&theme=onedark&no-frame=true&column=8" />
 </p>
 
+
+## 🧩 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Mekdelawit Abadina?theme=dark&font=baloo&ext=contest)](https://leetcode.com/u/mekdelawitabadi/)
 ---
 <p align="center">⚡ Always learning. Let's connect and grow together!</p>

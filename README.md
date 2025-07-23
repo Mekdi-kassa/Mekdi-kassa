@@ -86,7 +86,7 @@
 
 
 ## 🧩 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/mekdelawitabadi?theme=dark&font=BioRhyme)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=dark&font=BioRhyme)(https://leetcode.com/u/mekdelawitabadi/)
 ---
 <p align="center">⚡ Always learning. Let's connect and grow together!</p>

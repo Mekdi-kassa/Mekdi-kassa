@@ -85,7 +85,7 @@
 </p>
 
 
-## 🧩 LeetCode Stats
+## 🧩 LeetCode Status
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mekdelawitabadi?theme=dark&font=BioRhyme)
 
 ---
